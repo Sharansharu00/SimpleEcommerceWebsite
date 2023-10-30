@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Sharansharu00/SimpleEcommerceWebsite/static/css/main.f6cfc551.css",
+    "main.js": "/Sharansharu00/SimpleEcommerceWebsite/static/js/main.a6905269.js",
+    "static/js/787.ff3e5ad1.chunk.js": "/Sharansharu00/SimpleEcommerceWebsite/static/js/787.ff3e5ad1.chunk.js",
+    "static/media/6.1.jpg": "/Sharansharu00/SimpleEcommerceWebsite/static/media/6.1.3e69f7672eb8a2f83cfd.jpg",
+    "static/media/5.webp": "/Sharansharu00/SimpleEcommerceWebsite/static/media/5.f35a51c13216aca77db1.webp",
+    "static/media/logoshop.jpg": "/Sharansharu00/SimpleEcommerceWebsite/static/media/logoshop.7ba137734d25ff325d99.jpg",
+    "static/media/9.jpg": "/Sharansharu00/SimpleEcommerceWebsite/static/media/9.5cfcbfccdb9b05d3d4aa.jpg",
+    "static/media/12.1.webp": "/Sharansharu00/SimpleEcommerceWebsite/static/media/12.1.47bd63f6aea8b9fd13b6.webp",
+    "static/media/7.jpg": "/Sharansharu00/SimpleEcommerceWebsite/static/media/7.b0d2f2f5b55247ed06cc.jpg",
+    "static/media/1.webp": "/Sharansharu00/SimpleEcommerceWebsite/static/media/1.df896454d6e7fc6c5e62.webp",
+    "static/media/2.jpg": "/Sharansharu00/SimpleEcommerceWebsite/static/media/2.3f6b503a8dc28dc3260b.jpg",
+    "static/media/3.1.webp": "/Sharansharu00/SimpleEcommerceWebsite/static/media/3.1.b2a12f1c5490d52c6ab8.webp",
+    "static/media/4.jpg": "/Sharansharu00/SimpleEcommerceWebsite/static/media/4.4624ee0fabe9611d1d53.jpg",
+    "static/media/10.jpg": "/Sharansharu00/SimpleEcommerceWebsite/static/media/10.1c86dc91d95fa80910f9.jpg",
+    "index.html": "/Sharansharu00/SimpleEcommerceWebsite/index.html",
+    "main.f6cfc551.css.map": "/Sharansharu00/SimpleEcommerceWebsite/static/css/main.f6cfc551.css.map",
+    "main.a6905269.js.map": "/Sharansharu00/SimpleEcommerceWebsite/static/js/main.a6905269.js.map",
+    "787.ff3e5ad1.chunk.js.map": "/Sharansharu00/SimpleEcommerceWebsite/static/js/787.ff3e5ad1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6cfc551.css",
+    "static/js/main.a6905269.js"
+  ]
+}
