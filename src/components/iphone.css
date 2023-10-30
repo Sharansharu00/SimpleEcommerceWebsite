@@ -1,0 +1,37 @@
+.iphImg {
+  width: 400px;
+  height: 350px;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+  border-radius: 25px;
+  margin-top: 150px;
+  position: relative;
+}
+.iphtypes {
+  width: 50%;
+  height: 0vh;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+  border-radius: 25px;
+  display: inline-block;
+  margin-top: 20px;
+}
+.iphtypes img {
+  width: 200px;
+  height: 150px;
+}
+.spanX{
+  position: absolute;
+  background-color: rgba(236, 230, 230, 0.39);
+  color:rgba(216, 205, 205, 0.822);
+  width: 80px;
+  height: 80px;
+  line-height:80px;
+  border-radius:50%;
+  font-size: 50px;
+  top:25%;
+  right:33%;
+  cursor: pointer;
+}
+.spanX:hover{
+  background-color: rgba(0, 0, 0, 0.817);
+  color: white;
+}
